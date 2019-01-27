@@ -14,8 +14,8 @@
 
     <!-- Define an Administrator and non-Administrator -->
    <basicRegistry id="basic">
-      <user name="admin" password="adminpwd" />
-      <user name="nonadmin" password="nonadminpwd" />
+      <user name="admin" password="admin123#" />
+      <user name="nonadmin" password="nonadmin123#d" />
    </basicRegistry>
 
    <!-- Assign 'admin' to Administrator -->
