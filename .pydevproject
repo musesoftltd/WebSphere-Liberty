@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?eclipse-pydev version="1.0"?><pydev_project>
-    
-    <pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Jython PyDev</pydev_property>
-    
-    <pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">jython interpreter</pydev_property>
-    
-    <pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
-        <path>/WebSphere-Liberty/com.ibm.ws.jmx.connector.client.rest.jar.here/com.ibm.ws.jmx.connector.client.rest_1.0.23.jar</path>
-    </pydev_pathproperty>
+<?php eclipse - pydev version = "1.0"?><pydev_project>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Jython PyDev</pydev_property>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">jython interpreter</pydev_property>
+<pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
+<path>/${PROJECT_DIR_NAME}/com.ibm.ws.jmx.connector.client.rest.jar.here/com.ibm.ws.jmx.connector.client.rest_1.0.23.jar</path>
+</pydev_pathproperty>
 </pydev_project>
